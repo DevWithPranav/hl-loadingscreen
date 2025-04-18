@@ -28,8 +28,6 @@ Add the following line to your server.cfg:
 ensure custom-loading-screen
 
 
-
-
 Verify Assets:
 
 Ensure all files in the dist/assets/ folder (e.g., image3.png, image4.png, logo.png, music-CyXgJPQu.mp3, music1-CzRypXeT.mp3) are correctly placed as referenced in the code.
